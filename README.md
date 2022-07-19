@@ -2,14 +2,11 @@
 
 <!-- Quality READ ME file with description, screenshot, and link to deployed application -->
 
-This challenge is graded based on the following criteria:
+This is Module 1 Challenge. The assignment is to improve the codebase of a fully 
+functional basic website. Refactor the code to add accessibility to the site and make 
+any improvements. In changing the codebase, the appearance of the website should not change.
+But if there is something broken then it should be fixed.
 
-## Technical Acceptance Criteria
+The website should look like the following and can be found [here]( https://dbcomps.github.io/urban-octo-telegram-main/).
 
-* Satisfies all of the preceding acceptance criteria plus the following code improvements:
-
-* Acceptance's links all function correctly
-
-* Application's CSS selectors and properties are consolidated and organized to follow 
-semantic structure.
-* Application's CSS file is properly commented
+![Description of the website](./assets/images/01-html-css-git-homework-demo.png)
